@@ -20,6 +20,5 @@ python app.py
 - `model.py`: Contains the logic for converting text to SQL queries.
 - `requirements.txt`: Lists the required Python packages for the project.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
 
