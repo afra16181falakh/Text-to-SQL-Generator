@@ -1,6 +1,5 @@
 # Text-to-SQL Generator
 
-## Description
 The Text-to-SQL Generator is a Python application that converts natural language queries into SQL queries. This project aims to simplify the process of generating SQL queries from user input, making it easier for users to interact with databases.
 
 ## Installation
