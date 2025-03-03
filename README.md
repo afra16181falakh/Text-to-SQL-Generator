@@ -9,7 +9,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
 To run the application, execute the following command:
 
 ```bash
