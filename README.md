@@ -5,6 +5,7 @@ The Text-to-SQL Generator is a Python application that converts natural language
 To install the required dependencies, run the following command:
 
 ```bash
+
 pip install -r requirements.txt
 ```
 
