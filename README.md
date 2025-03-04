@@ -14,7 +14,6 @@ To run the application, execute the following command:
 ```bash
 python app.py
 ```
-
 ## Files
 - `app.py`: The main application file that runs the Text-to-SQL generator.
 - `model.py`: Contains the logic for converting text to SQL queries.
